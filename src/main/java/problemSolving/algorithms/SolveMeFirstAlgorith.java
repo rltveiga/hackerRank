@@ -1,6 +1,6 @@
 package problemSolving.algorithms;
 
-public class SolveMeFirst {
+public class SolveMeFirstAlgorith {
 
     /**
      * Complete the function solveMeFirst to compute the sum of two integers.
@@ -21,7 +21,7 @@ public class SolveMeFirst {
      * @return
      */
 
-    static int solveMeFirst(int a, int b) {
+    public static int solveMeFirst(int a, int b) {
         return a+b;
     }
 
